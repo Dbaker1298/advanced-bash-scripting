@@ -1,0 +1,12 @@
+Fri Apr 9 04:59:16 PM EDT 2021
+david tty2 2021-04-04 13:33 (tty2)
+16:59:16 up 5 days, 3:26, 1 user, load average: 0.04, 0.23, 0.15
+____________
+Fri Apr 9 04:59:18 PM EDT 2021
+david tty2 2021-04-04 13:33 (tty2)
+16:59:18 up 5 days, 3:26, 1 user, load average: 0.04, 0.23, 0.15
+____________
+Fri Apr 9 04:59:18 PM EDT 2021
+david tty2 2021-04-04 13:33 (tty2)
+16:59:18 up 5 days, 3:26, 1 user, load average: 0.04, 0.23, 0.15
+____________
